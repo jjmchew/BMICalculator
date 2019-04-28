@@ -1,0 +1,72 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 315%;
+    color: rgb(8,12,143);
+    text-align: center;
+    margin-top:2%;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    color: rgb(8,12,143);
+    text-align: center;
+    margin-top:5%;
+}
+
+.kgClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue;
+    width:40%;
+    float: left;
+    margin: 0 0 2% 8%;
+    text-align: center;
+}
+
+.meterClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue;
+    width:40%;
+    float: left;
+    margin: 0 5% 2% 0;
+    text-align: center;
+}
+
+.calcButtonClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue;
+    background-color: rgb(147, 178, 189);
+    text-align: center;
+    font-size: 130%;
+    border: 2px solid blue;
+    padding: 20px;
+}
+
+.resetButtonClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue;
+    background-color: rgb(147, 178, 189);
+    text-align: center;
+    font-size: 100%;
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+.resultsClass{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+.imgClassOff{
+    height: 150px;
+    width: auto;
+    opacity: 0.1;
+}
+
+.imgClassOn{
+    height: 150px;
+    width: auto;
+    opacity: 1;
+    border:red 3px solid;
+}
